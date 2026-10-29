@@ -1,16 +1,16 @@
-## Hi there 👋
+# Cyanide
 
-<!--
-**Glorious-Force/Glorious-Force** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+在学 AI，也在学剪辑。学到的东西都写在这儿：**<https://cyanide-blog.surge.sh>**
 
-Here are some ideas to get you started:
+### 在做的
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **个人博客** · [cyanide-blog.surge.sh](https://cyanide-blog.surge.sh) — 纯静态、零依赖、没有构建步骤，文章在 Notion 里写
+- **Reverb Lab** · [cyanide-blog.surge.sh/Reverb](https://cyanide-blog.surge.sh/Reverb) — 把一首歌丢进浏览器，变成水下大厅混响（Web Audio，全部本地处理，不上传）
+- 站点源码 · [cyanide-site](https://github.com/Glorious-Force/cyanide-site)
+
+### 别的
+
+- [CyanideBlog](https://github.com/Glorious-Force/CyanideBlog) — NotionNext 的 fork，2026-05 的一次实验，没启用
+- [Java](https://github.com/Glorious-Force/Java) — 2021 年的 Java 课程练习
+
+> 头像和配图都是纳西妲。
